@@ -1,6 +1,6 @@
 # Oi, meu nome é Paulo! 👋
 
-[<img src="https://github.com" width="35px" alt="LinkedIn" />](https://linkedin.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com" width="35px" alt="Gmail" />](mailto:pauloguilhermecn@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://github.com" width="35px" alt="Instagram" />](https://instagram.com)
+[![LinkedIn](https://githubusercontent.com)](https://linkedin.com) &nbsp;&nbsp; [![Gmail](https://githubusercontent.com)](mailto:pauloguilhermecn@gmail.com) &nbsp;&nbsp; [![Instagram](https://githubusercontent.com)](https://instagram.com/guiipaulo)
 
 ***
 
