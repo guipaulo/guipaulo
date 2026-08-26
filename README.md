@@ -14,12 +14,13 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
 </p>
 
+<br>
+
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,git,github,arduino" />
 </p>
----
 
 ## 🌐 Redes sociais
 
@@ -36,4 +37,3 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
----
