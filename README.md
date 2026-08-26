@@ -13,7 +13,7 @@
       <img src="https://skillicons.dev" alt="Email" width="30px" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com" target="_blank">
+    <a href="https://instagram.com/guiipaulo" target="_blank">
       <img src="https://skillicons.dev" alt="Instagram" width="30px" />
     </a>
   </p>
