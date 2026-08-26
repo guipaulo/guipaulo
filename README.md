@@ -1,8 +1,6 @@
 # Oi, meu nome é Paulo! 👋
 
-![Paulo](https://github.com)
-
-🌐 [LinkedIn](https://linkedin.com) &nbsp;|&nbsp; ✉️ [Email](mailto:pauloguilhermecn@gmail.com) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp;|&nbsp; [![Email](https://shields.io)](mailto:pauloguilhermecn@gmail.com) &nbsp;|&nbsp; [![Instagram](https://shields.io)](https://instagram.com)
 
 ***
 
