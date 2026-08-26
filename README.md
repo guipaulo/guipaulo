@@ -11,9 +11,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
 ## 💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,vue,jupyter" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp,cs,html,css,vue,jupyter" />
 </p>
 
 ## 🛠️ Tecnologias e ferramentas
