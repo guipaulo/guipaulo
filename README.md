@@ -7,9 +7,3 @@
 ***
 
 Estudante de **Sistemas para Internet** com foco em **Desenvolvimento Web**, **IoT** e **Machine Learning**.
-
-***
-
-## 📊 Linguagens mais utilizadas
-
-![Linguagens mais utilizadas](https://vercel.app)
