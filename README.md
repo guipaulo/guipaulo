@@ -8,20 +8,18 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
 
 <br>
 
-## 🚀 Tecnologias
+## 💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,nodejs,nestjs,docker,git,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
 </p>
 
-## 📊 Linguagens mais utilizadas
+## 🛠️ Tecnologias e ferramentas
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaulo&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Linguagens mais utilizadas"
-  />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,docker,git,github,arduino" />
 </p>
+---
 
 ## 🌐 Redes sociais
 
@@ -38,7 +36,4 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-<br>
 ---
-
-⭐ Sempre aprendendo, desenvolvendo e explorando novas tecnologias.
