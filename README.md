@@ -18,7 +18,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaulo&layout=compact&langs_count=8&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guipaulo&layout=compact&theme=tokyonight&hide_border=true"
     alt="Linguagens mais utilizadas"
   />
 </p>
@@ -38,7 +38,7 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+<br>
 ---
 
 ⭐ Sempre aprendendo, desenvolvendo e explorando novas tecnologias.
