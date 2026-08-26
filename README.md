@@ -14,8 +14,6 @@ Atualmente, estou aprimorando meus conhecimentos em desenvolvimento de software,
   <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c" />
 </p>
 
-<br>
-
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
