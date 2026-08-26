@@ -1,36 +1,34 @@
-# Olá, meu nome é Guilherme! 👋
+<div align="center">
+  <img src="https://github.com" alt="Guilherme" width="120px" style="border-radius: 50%; margin-bottom: 20px;" />
 
-<p align="center">
-  <img src="https://github.com" alt="Sua Foto de Perfil" width="150px" style="border-radius: 50%;"/>
-</p>
+  # Guilherme Paulo
+  
+  [![LinkedIn](https://shields.io)](https://linkedin.com)
+  [![Email](https://shields.io)](mailto:pauloguilhermecn@gmail.com)
+  [![Instagram](https://shields.io)](https://instagram.com/guiipaulo)
 
----
+  ***
 
-### 🌐 Redes Sociais
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:pauloguilhermecn@gmail.com" target="_blank"><img src="https://shields.io" alt="Gmail"></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://shields.io" alt="Instagram"></a>
-</p>
+  <p align="center">
+    Estudante de <b>Sistemas para Internet</b> com foco em <b>Desenvolvimento Web</b>, <b>IoT</b> e <b>Machine Learning</b>.<br />
+    Desenvolvendo soluções eficientes e explorando novas tecnologias diariamente.
+  </p>
+</div>
 
----
+## 📌 Sobre Mim
 
-### 📝 Sobre Mim
-Sou estudante de **Sistemas para Internet**, com forte interesse em **Desenvolvimento Web**, **IoT** (Internet das Coisas) e **Machine Learning**.
+- 🔭 Desenvolvendo aplicações web e projetos acadêmicos estruturados.
+- 🌱 Aprofundando conhecimentos em arquitetura de software, automação com IoT e inteligência artificial.
+- 💬 Disponível para trocar ideias sobre desenvolvimento e novas tecnologias.
 
-- 🔭 Atualmente estou trabalhando em projetos acadêmicos e pessoais.
-- 🌱 Aprendendo mais sobre novas ferramentas de desenvolvimento e IA.
+## 📊 Estatísticas e Linguagens
 
----
+<div align="center">
+  <img src="https://vercel.app" alt="Linguagens mais utilizadas" />
+</div>
 
-### 📊 Linguagens Mais Utilizadas
+## ⚡ Conectado
 
-<p align="center">
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://giphy.com" alt="Animação Dev" width="400px"/>
-</p>
+<div align="center">
+  <img src="https://giphy.com" alt="Coding" width="320px" style="opacity: 0.8;" />
+</div>
