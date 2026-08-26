@@ -1,22 +1,28 @@
 <div align="center">
   
-  # Oi, meu nome é Paulo!
+  # Oi, meu nome é Paulo! 👋
 
-  🌐 [LinkedIn](https://linkedin.com) &nbsp;|&nbsp; ✉️ [Email](mailto:pauloguilhermecn@gmail.com) &nbsp;|&nbsp; 📸 [Instagram](https://instagram.com)
+  <img src="https://githubusercontent.com" alt="Paulo" width="100px" style="border-radius: 50%; margin-bottom: 15px;" />
+
+  <p align="center">
+    <a href="https://linkedin.com" target="_blank">
+      <img src="https://skillicons.dev" alt="LinkedIn" width="30px" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:pauloguilhermecn@gmail.com" target="_blank">
+      <img src="https://skillicons.dev" alt="Email" width="30px" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://instagram.com/guiipaulo" target="_blank">
+      <img src="https://skillicons.dev" alt="Instagram" width="30px" />
+    </a>
+  </p>
 
   ***
 
-  Estudante de **Sistemas para Internet** com foco em **Desenvolvimento Web**, **IoT** e **Machine Learning**.  
-  Desenvolvendo soluções eficientes e explorando novas tecnologias diariamente.
+  Estudante de **Sistemas para Internet** com foco em **Desenvolvimento Web**, **IoT** e **Machine Learning**.
 
 </div>
-
-<br />
-
-## 📌 Sobre Mim
-
-- **Projetos:** Desenvolvendo aplicações web estruturadas e integrando soluções acadêmicas.
-- **Foco:** Aprofundando conhecimentos em arquitetura de software, automação com IoT e inteligência artificial.
 
 <br />
 
